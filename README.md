@@ -1,6 +1,6 @@
-<h1>Hi, I'm Josh! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Data Scientist</a>, <a href="https://github.com/quachphu">Machine Learning Engineer</a> 
+<h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Data Scientist</a>, <a href="https://github.com/quachphu">Machine Learning Engineer</a> 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
