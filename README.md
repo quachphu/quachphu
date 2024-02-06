@@ -1,5 +1,6 @@
 <h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Data Scientist</a>, <a href="https://github.com/quachphu">Machine Learning Engineer</a> 
-- <b>Natural Language Processing </b>
+
+  - <b>Natural Language Processing </b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
