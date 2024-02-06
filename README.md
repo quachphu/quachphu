@@ -32,12 +32,6 @@
 - [Master Data Visualization Techniques](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=quachphu&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quachphu&theme=dark&hide_border=false)<br/>
@@ -47,6 +41,15 @@
 [![](https://visitcount.itsvg.in/api?id=quachphu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 [leetcode]: https://leetcode.com/PhuQuach/
 [instagram]: https://www.instagram.com/phuquach/
 [linkedin]: https://www.linkedin.com/in/quachthienphu/
