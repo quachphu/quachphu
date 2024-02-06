@@ -24,6 +24,12 @@
 - [How to get into Data Science Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Master Data Visualization Techniques](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
+<h2> Certification </h2>
+
+- [Hand-On Tableau](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to get into Data Science Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Master Data Visualization Techniques](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
 
 <h2> 🤳 Connect with me:</h2>
 
