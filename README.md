@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Josh! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Data Scientist</a>, <a href="https://github.com/quachphu">Machine Learning Engineer</a> 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
