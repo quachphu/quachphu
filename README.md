@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/quachphu/CSULB)
 - <b>Data Analysis and Visualization </b>
   - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
 - <b>Natural Language Processing </b>
