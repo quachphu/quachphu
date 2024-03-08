@@ -7,6 +7,8 @@
   - [Praciting DS & Algos in Python](https://github.com/quachphu/CSULB)
 - <b>Data Analysis and Visualization </b>
   - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
+ 
+
 <h2>📝 My Blog </h2>
 - [What is Data Scientist ](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to get into Data Science Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
