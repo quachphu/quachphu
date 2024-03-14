@@ -9,20 +9,6 @@
   - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
  
 
-<h2>📝 My Blog </h2>
-
-- [What is Data Scientist ](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to get into Data Science Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Master Data Visualization Techniques](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
-<h2>🪪 Certification </h2>
-
-- [Hand-On Tableau](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to get into Data Science Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Master Data Visualization Techniques](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quachphu&theme=default&hide_border=false)<br/>
