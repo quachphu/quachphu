@@ -14,7 +14,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quachphu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+GIT HUB: 
+<h2>📝 My Blog </h2>
 
+- [What is Data Scientist ](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to get into Data Science Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Master Data Visualization Techniques](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
