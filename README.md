@@ -11,7 +11,7 @@
 GIT HUB: 
 <h2>📝 My Blog </h2>
 
-- [What is Data Scientist ](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
+- [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
