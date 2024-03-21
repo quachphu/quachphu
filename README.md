@@ -8,7 +8,7 @@
 - <b>Data Analysis and Visualization </b>
   - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
  
-GIT HUB: 
+
 <h2>📝 My Blog </h2>
 
 - [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
