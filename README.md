@@ -7,7 +7,8 @@
   - [Praciting DS & Algos in Python](https://github.com/quachphu/CSULB)
 - <b>Data Analysis and Visualization </b>
   - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
- 
+- <b>Machine Learning Project </b>
+  - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)
 
 <h2>📝 My Blog </h2>
 
