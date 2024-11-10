@@ -10,6 +10,10 @@
 - <b>Machine Learning Project </b>
   - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)
 
+- <b>Hackathon Project </b>
+  - [VoiceBridges Project](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
+
+
 <h2>📝 My Blog </h2>
 
 - [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
