@@ -1,7 +1,7 @@
 <h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Data Scientist</a>, <a href="https://github.com/quachphu">Machine Learning Engineer</a> 
 <h2>Introduction</h2>
     I'm a student majoring in Computer Science at CSULB in Long Beach. Currently, I'm deeply passionate about diving into the field of Data Science. I find immense joy and fulfillment in exploring the vast world of data analytics, machine learning, and artificial intelligence. I believe that harnessing the power of data can unlock endless possibilities and drive meaningful change in various industries. I'm eager to connect with like-minded individuals who share my enthusiasm for data science and are eager to collaborate on exciting projects. Let's connect and embark on this journey together!
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/quachphu/CSULB)
