@@ -12,7 +12,7 @@
   - [Planar_data_classification](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
 
 - <b>Hackathon Project </b>
-  - [VoiceBridges Project](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
+  - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
 
 
 <h2>📝 My Blog </h2>
