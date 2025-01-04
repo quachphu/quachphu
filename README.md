@@ -8,9 +8,9 @@
 - <b>Data Analysis and Visualization </b>
   - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
 - <b>Machine Learning Project </b>
-  - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)    - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
+  - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
   - [Planar_data_classification](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
-  
+  - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
 
 - <b>Hackathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
