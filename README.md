@@ -14,7 +14,7 @@
   - [Tensorflow Sign Language Digits](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
 - <b>Hackathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
-  - [Gaucho Grubs ](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
+  - [Gaucho Grubs - UCSB Hackathon](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
 
   
 <h2>📝 My Blog </h2>
