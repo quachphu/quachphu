@@ -12,6 +12,9 @@
   - [Planar_data_classification](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
   - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
   - [Tensorflow Sign Language Digits](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
+
+- <b>Generative AI</b>
+
 - <b>Hackathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
   - [Gaucho Grubs - UCSB Hackathon](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
