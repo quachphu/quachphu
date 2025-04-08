@@ -13,16 +13,6 @@
   - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
   - [Tensorflow Sign Language Digits](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
 
-- <b>Generative AI</b>
-  - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
-  - [Chat With SQL DB With Langchain SQL Toolkit and Agentype](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
-  - [Youtube Video And Website Url Content Summarization](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
-  - [PDF Query With Langchain and AstraDB](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
-  - [Muti Language Code Assistant](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
-  - [Blog Generation GEN AI With AWS ](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
-  - [Youtube Video To Blog Page With CrewAI ](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
-  - [Hybrid Search RAG With Pipecone DB and Langchain ](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
-  - [Multi AI RAG ChatBot with LangGraph and AstraDB](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
 
 - <b>Hackathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
