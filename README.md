@@ -16,9 +16,10 @@
 - <b>Generative AI</b>
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)   
 
-- <b>Hackathon Project </b>
+- <b>Hackathon & Datathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
   - [Gaucho Grubs - UCSB Hackathon](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
+  - [MealBreak Analysis - Top 2 LMU Datathon](https://github.com/quachphu/datathon2025)
 
   
 <h2>📝 My Blog </h2>
