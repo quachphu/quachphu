@@ -5,8 +5,7 @@
 
 - <b>Data Structures and Algorithms Practice </b>
   - [Praciting DS & Algos in Python](https://github.com/quachphu/CSULB)
-- <b>Data Analysis and Visualization </b>
-  - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
+
 - <b>Machine Learning Project </b>
   - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
   - [Planar_data_classification](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
@@ -21,7 +20,8 @@
   - [Gaucho Grubs - UCSB Hackathon](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
   - [MealBreak Analysis - Top 2 LMU Datathon](https://github.com/quachphu/datathon2025)
   - [Uber Predicting Driver Activation- UCI Datathon](https://github.com/quachphu/UCIdatathon)
-
+  - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
+  
 <h2>📝 My Blog </h2>
 
 - [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
