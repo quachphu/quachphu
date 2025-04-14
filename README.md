@@ -20,8 +20,8 @@
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
   - [Gaucho Grubs - UCSB Hackathon](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
   - [MealBreak Analysis - Top 2 LMU Datathon](https://github.com/quachphu/datathon2025)
+  - [Uber Predicting Driver Activation- UCI Datathon](https://github.com/quachphu/datathon2025)
 
-  
 <h2>📝 My Blog </h2>
 
 - [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
