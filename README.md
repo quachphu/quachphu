@@ -4,7 +4,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python](https://github.com/quachphu/CSULB)
+  - [Practice DS & Algos in Python](https://github.com/quachphu/CSULB)
 
 - <b>Machine Learning Project </b>
   - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
