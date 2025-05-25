@@ -14,7 +14,7 @@
 
 - <b>Generative AI</b>
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
-  - [Search Enginer](https://github.com/quachphu/Project/tree/main/SearchEngine)
+  - [Search Engines](https://github.com/quachphu/Project/tree/main/SearchEngine)
 
 - <b>Hackathon & Datathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
