@@ -8,9 +8,9 @@
 
 - <b>Machine Learning Project </b>
   - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
-  - [Planar_data_classification](https://github.com/quachphu/Project/tree/main/Planar%20Data%20Classification )
   - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
-  - [Tensorflow Sign Language Digits](https://github.com/quachphu/Project/tree/main/Tensorflow%20Sign%20Language%20Digits)
+  - [Face Recognition](https://github.com/quachphu/Project/tree/main/Face_Recognition)
+  - [Transformer](https://github.com/quachphu/Project/tree/main/Transformer)
 
 - <b>Generative AI</b>
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
