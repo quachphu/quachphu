@@ -11,6 +11,8 @@
   - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
   - [Face Recognition](https://github.com/quachphu/Project/tree/main/Face_Recognition)
   - [Transformer](https://github.com/quachphu/Project/tree/main/Transformer)
+  - [Convolutional Neutral Network](https://github.com/quachphu/Project/tree/main/Convolutional%20Neutral%20Network-Application)
+
 
 - <b>Generative AI</b>
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
