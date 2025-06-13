@@ -17,6 +17,10 @@
 - <b>Generative AI</b>
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
   - [Search Engines](https://github.com/quachphu/Project/tree/main/SearchEngine)
+  - [RAG Document Q&A Nvidia Nim and Langchain(Developing)]
+
+- <b>Agentic AI Project(Developing)</b>
+
 
 - <b>Hackathon & Datathon Project </b>
   - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
