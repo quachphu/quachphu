@@ -18,7 +18,7 @@
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
   - [Search Engines](https://github.com/quachphu/Project/tree/main/SearchEngine)
   - [RAG Document Q&A Nvidia Nim and Langchain(Developing)]
-  - [Youtube to Blog Page CrewAI-Agents (Developing)]
+  - [Youtube to Blog Page MultiAI-Agents (Developing)]
 
 - <b>Agentic AI Project(Developing)</b>
 
