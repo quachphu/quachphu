@@ -17,7 +17,7 @@
 - <b>Generative AI</b>
   - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
   - [Search Engines](https://github.com/quachphu/Project/tree/main/SearchEngine)
-  - [RAG Document Q&A Nvidia Nim and Langchain(Developing)]
+  - [RAG Document Q&A Nvidia Nim and Langchain](https://github.com/quachphu/Project/tree/main/nvidia)
   - [Youtube to Blog Page MultiAI-Agents (Developing)]
 
 - <b>Agentic AI Project(Developing)</b>
