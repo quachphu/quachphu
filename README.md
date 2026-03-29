@@ -215,8 +215,7 @@ class Phu:
 ---
 
 
-<h2> 🤳 Connect with me:</h2>
-## 🤝 Connect With Me
+<h2> Connect with me:</h2>
  
 <div align="center">
  
@@ -232,16 +231,4 @@ class Phu:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
  
 </div>
-
-
-
-
-[<img align="left" alt="JoshMadakor | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[leetcode]: https://leetcode.com/PhuQuach/
-[instagram]: https://www.instagram.com/phuquach/
-[linkedin]: https://www.linkedin.com/in/quachthienphu/
 
