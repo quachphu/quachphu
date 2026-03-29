@@ -21,20 +21,19 @@ class Phu:
         self.internship  = "Data Engineer Intern @ OneHope, Inc. (Summer 2026)"
         self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
         self.research    = "CGEV Multi-Agent Self-Improvement (arXiv:2502.04780 extension)"
-        self.wins        = ["🥇 USC AI Challenge", "🥈 LMU Datathon", "🏆 UCI Hackathon"]
-        self.languages   = ["Python", "TypeScript", "Haskell", "C++", "SQL", "Go"]
-        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Data Eng"]
+        self.wins        = ["USC AI Challenge Hackathon", "LMU Business Challenge Datathon", "CSULB Beach Hacks"]
+        self.languages   = ["Python", "TypeScript", "JavaScript", "C", "C++", "SQL", "Go"]
+        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Big Data"]
  
     def current_focus(self):
         return [
-            "🤖  CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
-            "🎙️  VoiceBridge — AI voice control & desktop automation startup",
-            "📊  Data Engineering with Dagster, dbt, and cloud pipelines",
-            "🌊  BeachHacks — organizing CSULB's premier hackathon",
+            "CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
+            "VoiceBridge — AI voice control & desktop automation startup",
+            "Data Engineering with Dagster, dbt, and cloud pipelines",
         ]
  
     def fun_fact(self):
-        return "I've competed in 6+ hackathons and won 3 of them 🏆"
+        return "I've competed in 6+ hackathons and won 3 of them "
 ```
  
  
