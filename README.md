@@ -1,5 +1,3 @@
-<h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Software Engineer</a>, <a href="https://github.com/quachphu">Artificial Intelligence Engineer</a> 
-
 <div align="center">
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Quach%20Thien%20Phu&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Builder&descAlignY=58&descColor=8b949e" />
