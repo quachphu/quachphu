@@ -1,6 +1,21 @@
 <h1>Hi, I'm Phu! <br/> <a href="https://www.linkedin.com/in/quachthienphu/">Software Engineer</a>, <a href="https://github.com/quachphu">Artificial Intelligence Engineer</a> 
 <h2>Introduction</h2>
     I'm a student majoring in Computer Science at CSULB in Long Beach. Currently, I'm deeply passionate about diving into the field of Artificial Intelligence. I find immense joy and fulfillment in exploring the vast world of software engineering, machine learning, and AI agent. I believe that harnessing the power of data can unlock endless possibilities and drive meaningful change in various industries. I'm eager to connect with like-minded individuals who share my enthusiasm for data science and are eager to collaborate on exciting projects. Let's connect and embark on this journey together!
+
+
+
+
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Quach%20Thien%20Phu&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%20Builder&descAlignY=58&descColor=8b949e" />
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+%40+CSULB+%7C+ML+Specialization;Co-Founder+%26+COO+%40+VoiceBridge;ACM+VP+%7C+BeachHacks+Director;Google+SWE+Fellows+Track+Lead;Hackathon+Builder+%F0%9F%9A%80)](https://git.io/typing-svg)
+ 
+</div>
+
+
+
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice </b>
