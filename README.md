@@ -33,7 +33,25 @@
 <h2>📝 My Blog </h2>
 
 - [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
-  
+
+
+## 🏆 Achievements & Open Source
+ 
+<div align="center">
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=quachphu&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+ 
+| 🏅 Achievement | Details |
+|---|---|
+| 🥇 **USC AI Challenge — 1st Place** | VoiceBridges, Dain's Challenge |
+| 🥈 **LMU Datathon — 2nd Place** | MealBreak Analysis |
+| 🔧 **Dagster OSS Contributor** | Bug fix: issue #31937 (default_factory in Components system) |
+| 🎙️ **BeachHacks Director** | CSULB's premier hackathon |
+| 👨‍💼 **ACM Vice President** | Cal State Long Beach chapter |
+| 🔑 **Google SWE Fellows Lead** | Track leader for software engineering fellows |
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quachphu&theme=default&hide_border=false)<br/>
