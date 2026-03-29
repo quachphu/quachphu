@@ -10,6 +10,35 @@
     I'm a student majoring in Computer Science at CSULB in Long Beach. Currently, I'm deeply passionate about diving into the field of Artificial Intelligence. I find immense joy and fulfillment in exploring the vast world of software engineering, machine learning, and AI agent. I believe that harnessing the power of data can unlock endless possibilities and drive meaningful change in various industries. I'm eager to connect with like-minded individuals who share my enthusiasm for data science and are eager to collaborate on exciting projects. Let's connect and embark on this journey together!
 
 
+## 🧑‍💻 About Me
+ 
+```python
+class Phu:
+    def __init__(self):
+        self.name        = "Quach Thien Phu"
+        self.role        = ["Software Engineer", "AI/ML Engineer", "Startup Founder"]
+        self.university  = "Cal State Long Beach (CSULB) — CS, ML Specialization"
+        self.grad_year   = "December 2027"
+        self.company     = "Co-Founder & COO @ VoiceBridge"
+        self.internship  = "Data Engineer Intern @ OneHope, Inc. (Summer 2026)"
+        self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
+        self.research    = "CGEV Multi-Agent Self-Improvement (arXiv:2502.04780 extension)"
+        self.languages   = ["Python", "TypeScript", "Haskell", "C++", "SQL"]
+        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Data Eng"]
+ 
+    def current_focus(self):
+        return [
+            "🤖  CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
+            "🎙️  VoiceBridge — AI voice control & desktop automation startup",
+            "📊  Data Engineering with Dagster, dbt, and cloud pipelines",
+        ]
+```
+ 
+---
+ 
+
+
+
 
 <h2>👨‍💻 Projects:</h2>
 
