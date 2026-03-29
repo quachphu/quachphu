@@ -39,7 +39,34 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quachphu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+## 🛠️ Tech Stack
+ 
+<div align="center">
+ 
+**Languages**
+ 
+![Python](https://skillicons.dev/icons?i=python,typescript,cpp,haskell,c&theme=dark)
+ 
+**AI / ML**
+ 
+![AI Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+ 
+**Data Engineering**
+ 
+![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+ 
+**Web & Cloud**
+ 
+![Web Stack](https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,netlify,gcp&theme=dark)
+ 
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
