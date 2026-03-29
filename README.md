@@ -6,13 +6,9 @@
  
 </div>
 
-<h2>Introduction</h2>
-**CS student at CSULB** with an ML specialization, building at the intersection of **Agentic AI, data engineering, and real-world product**. I'm a 3× hackathon & datathon winner, Co-Founder of an AI startup, and ML researcher extending multi-agent self-improvement architectures. When I'm not shipping code, I'm organizing [BeachHacks](https://github.com/quachphu) — CSULB's flagship hackathon — and leading the Google SWE Fellows track for the next generation of engineers.
-
-
-
-
 ## 🧑‍💻 About Me
+ 
+> **CS student at CSULB** with an ML specialization, building at the intersection of **Agentic AI, data engineering, and real-world product**. I'm a 3× hackathon & datathon winner, Co-Founder of an AI startup, and ML researcher extending multi-agent self-improvement architectures. When I'm not shipping code, I'm organizing [BeachHacks](https://github.com/quachphu) — CSULB's flagship hackathon — and leading the Google SWE Fellows track for the next generation of engineers.
  
 ```python
 class Phu:
@@ -20,22 +16,27 @@ class Phu:
         self.name        = "Quach Thien Phu"
         self.role        = ["Software Engineer", "AI/ML Engineer", "Startup Founder"]
         self.university  = "Cal State Long Beach (CSULB) — CS, ML Specialization"
-        self.grad_year   = "May 2027"
+        self.grad_year   = "December 2027"
+        self.company     = "Co-Founder & COO @ VoiceBridge"
         self.internship  = "Data Engineer Intern @ OneHope, Inc. (Summer 2026)"
         self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
         self.research    = "CGEV Multi-Agent Self-Improvement (arXiv:2502.04780 extension)"
-        self.languages   = ["Python", "JavaScript", "TypeScript", "Haskell", "C", "C++", "SQL"]
-        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Data Engineer","Machine Learning"]
+        self.wins        = ["🥇 USC AI Challenge", "🥈 LMU Datathon", "🏆 UCI Hackathon"]
+        self.languages   = ["Python", "TypeScript", "Haskell", "C++", "SQL", "Go"]
+        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Data Eng"]
  
     def current_focus(self):
         return [
-            "CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
-            "VoiceBridge — AI voice control & desktop automation",
-            "Data Engineering with Dagster, dbt, and cloud pipelines",
+            "🤖  CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
+            "🎙️  VoiceBridge — AI voice control & desktop automation startup",
+            "📊  Data Engineering with Dagster, dbt, and cloud pipelines",
+            "🌊  BeachHacks — organizing CSULB's premier hackathon",
         ]
+ 
+    def fun_fact(self):
+        return "I've competed in 6+ hackathons and won 3 of them 🏆"
 ```
  
----
  
 
 ## 🛠️ Tech Stack
