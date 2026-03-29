@@ -18,19 +18,18 @@ class Phu:
         self.name        = "Quach Thien Phu"
         self.role        = ["Software Engineer", "AI/ML Engineer", "Startup Founder"]
         self.university  = "Cal State Long Beach (CSULB) — CS, ML Specialization"
-        self.grad_year   = "December 2027"
-        self.company     = "Co-Founder & COO @ VoiceBridge"
+        self.grad_year   = "May 2027"
         self.internship  = "Data Engineer Intern @ OneHope, Inc. (Summer 2026)"
         self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
         self.research    = "CGEV Multi-Agent Self-Improvement (arXiv:2502.04780 extension)"
-        self.languages   = ["Python", "TypeScript", "Haskell", "C++", "SQL"]
-        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Data Eng"]
+        self.languages   = ["Python", "JavaScript", "TypeScript", "Haskell", "C", "C++", "SQL"]
+        self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Data Engineer","Machine Learning"]
  
     def current_focus(self):
         return [
-            "🤖  CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
-            "🎙️  VoiceBridge — AI voice control & desktop automation startup",
-            "📊  Data Engineering with Dagster, dbt, and cloud pipelines",
+            "CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
+            "VoiceBridge — AI voice control & desktop automation",
+            "Data Engineering with Dagster, dbt, and cloud pipelines",
         ]
 ```
  
@@ -217,6 +216,25 @@ class Phu:
 
 
 <h2> 🤳 Connect with me:</h2>
+## 🤝 Connect With Me
+ 
+<div align="center">
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Quach%20Thien%20Phu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quachthienphu)
+[![GitHub](https://img.shields.io/badge/GitHub-quachphu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quachphu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-PhuQuach-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/PhuQuach/)
+[![VoiceBridge](https://img.shields.io/badge/VoiceBridge-voicebridges.net-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://voicebridges.net)
+ 
+</div>
+ 
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+ 
+</div>
+
+
+
 
 [<img align="left" alt="JoshMadakor | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
