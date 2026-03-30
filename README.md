@@ -144,7 +144,7 @@ class Phu:
         <img src="https://img.shields.io/badge/Multi--Agent-purple?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/NeuroFlow">📂 View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=U-uGXz10zS4&feature=youtu.be">Demo</a>
+      <a href="https://github.com/quachphu/NeuroFlow">View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=U-uGXz10zS4&feature=youtu.be">Demo</a>
     </td>
   </tr>
   <tr>
