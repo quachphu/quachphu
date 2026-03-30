@@ -98,8 +98,6 @@ class Phu:
 
 
 <h2>👨‍💻 Projects:</h2>
-
-🚀 Featured Projects
 <table>
   <tr>
     <td width="50%">
