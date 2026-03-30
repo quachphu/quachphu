@@ -98,7 +98,6 @@ class Phu:
 
 
 <h2>🚀 Featured Projects</h2>
- 
 <table>
   <tr>
     <td width="50%">
@@ -110,7 +109,7 @@ class Phu:
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Voice-FF6B6B?style=flat-square"/>
       </p>
-      <a href="https://voicebridges.net">voicebridges.net</a>&nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=TNiw3K0_gpU">Demo</a>
+      <a href="https://voicebridges.net">voicebridges.net</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=TNiw3K0_gpU">Demo</a>
     </td>
     <td width="50%">
       <h3>CGEV — ML Thesis</h3>
@@ -157,10 +156,8 @@ class Phu:
         <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/ElevenLabs-black?style=flat-square"/>
       </p>
-      <a href="https://github.com/quachphu/CrisisLineAI"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=5b1DhWeP4pw">Demo</a>
+      <a href="https://github.com/quachphu/CrisisLineAI">View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=5b1DhWeP4pw">Demo</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>GauchoGrub Dining</h3>
       <p><strong>UCSB Hackathon — Best Dining Hall App</strong></p>
@@ -171,8 +168,10 @@ class Phu:
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/GauchoGrub-Dining"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOIJ-e7Bc&t=30s">Demo</a>
+      <a href="https://github.com/quachphu/GauchoGrub-Dining">View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOIJ-e7Bc&t=30s">Demo</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>MealBreak Compliance Analysis</h3>
       <p><strong>Top 2 — LMU Datathon 2025</strong></p>
@@ -182,10 +181,8 @@ class Phu:
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Top%202%20LMU-FFD700?style=flat-square"/>
       </p>
-      <a href="https://github.com/quachphu/MealBreakAnalysis"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/posts/quachthienphu_datathon-datascience-analytics-ugcPost-7315231516261773313-m28M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADih51sBNVKQWp2vp1XqHEyPfH5WfGkDUVw">Linkedln</a> 
+      <a href="https://github.com/quachphu/MealBreakAnalysis">View Repo</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/posts/quachthienphu_datathon-datascience-analytics-ugcPost-7315231516261773313-m28M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADih51sBNVKQWp2vp1XqHEyPfH5WfGkDUVw">LinkedIn</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>Uber Driver Conversion Prediction</h3>
       <p><strong>UCI Datathon</strong></p>
@@ -197,7 +194,6 @@ class Phu:
       </p>
       <a href="https://github.com/quachphu/Uber-Driver">View Repo</a> &nbsp;|&nbsp; <a href="https://devpost.com/software/zotzotzot-predicting-driver-activation">Devpost</a>
     </td>
-    <td width="50%"></td>
   </tr>
   <tr>
     <td width="100%" colspan="2">
