@@ -33,7 +33,7 @@ class Phu:
         ]
  
     def fun_fact(self):
-        return "I love building projects and competing in hackathons!"
+        return "I love building projects and competing in hackathons! Gym rat +3 year"
 ```
  
  
