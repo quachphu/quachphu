@@ -110,10 +110,10 @@ class Phu:
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Voice-FF6B6B?style=flat-square"/>
       </p>
-      <a href="https://voicebridges.net">🌐 voicebridges.net</a>
+      <a href="https://voicebridges.net">voicebridges.net</a>&nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=TNiw3K0_gpU">Demo</a>
     </td>
     <td width="50%">
-      <h3>🧠 CGEV — ML Thesis</h3>
+      <h3>CGEV — ML Thesis</h3>
       <p><strong>Multi-Agent Self-Improvement Architecture</strong></p>
       <p>Extending SiriuS (arXiv:2502.04780) with a novel Critic-Guided Evolutionary framework. Fine-tuning on PubMedQA with GPT-4.1-nano via OpenAI API.</p>
       <p>
@@ -125,7 +125,7 @@ class Phu:
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎬 CineAI / AuraDirector</h3>
+      <h3>AuraDirector</h3>
       <p><strong>Glitch @ UCLA Hackathon — Mar 2026</strong></p>
       <p>Transforms story briefs into cinematic teaser videos using Google GenMedia APIs — Gemini 3.1, Veo 3.1, Lyria RealTime. Submitted to Kaggle competition.</p>
       <p>
@@ -133,10 +133,10 @@ class Phu:
         <img src="https://img.shields.io/badge/Veo-FF4500?style=flat-square"/>
         <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/GEMINI-HACKATHON-2026">📂 View Repo</a>
+      <a href="https://github.com/quachphu/GEMINI-HACKATHON-2026">View Repo</a> &nbsp;|&nbsp; <a href="https://youtu.be/KQnHn33obC8">Demo</a>
     </td>
     <td width="50%">
-      <h3>🤖 NeuroFlow</h3>
+      <h3>NeuroFlow</h3>
       <p><strong>BeachHacks — Multi-Agent Study Companion</strong></p>
       <p>AI-powered study companion using Fetch.ai uAgents framework. Orchestrates multiple specialized agents for adaptive learning.</p>
       <p>
@@ -144,12 +144,12 @@ class Phu:
         <img src="https://img.shields.io/badge/Multi--Agent-purple?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/NeuroFlow">📂 View Repo</a>
+      <a href="https://github.com/quachphu/NeuroFlow">📂 View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=U-uGXz10zS4&feature=youtu.be">Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🆘 CrisisLine AI</h3>
+      <h3>CrisisLine AI</h3>
       <p><strong>UCI Hackathon — Crisis Support Platform</strong></p>
       <p>Real-time crisis support using Twilio, AssemblyAI, GPT-4o, and ElevenLabs for voice-first mental health assistance.</p>
       <p>
@@ -157,21 +157,12 @@ class Phu:
         <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/ElevenLabs-black?style=flat-square"/>
       </p>
-    </td>
-    <td width="50%">
-      <h3>🏥 Medical Imaging Research</h3>
-      <p><strong>CSULB ML Research Lab</strong></p>
-      <p>CNN-based diagnostic models for medical imaging. Achieved 80% accuracy improvement over baseline. Prior work at ThinkNeuro on Brain-Computer Interfaces.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CNN-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Medical%20AI-red?style=flat-square"/>
-      </p>
+      <a href="https://github.com/quachphu/CrisisLineAI"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=5b1DhWeP4pw">Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🍽️ GauchoGrub Dining</h3>
+      <h3>GauchoGrub Dining</h3>
       <p><strong>UCSB Hackathon — Best Dining Hall App</strong></p>
       <p>AI-powered UCSB dining hall app with real-time wait time prediction using YOLO v3 computer vision on live camera feeds, plus personalized menu recommendations based on dietary needs.</p>
       <p>
@@ -180,7 +171,7 @@ class Phu:
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/GauchoGrub-Dining"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOlJ-e7Bc&t=30s">▶️ Demo</a>
+      <a href="https://github.com/quachphu/GauchoGrub-Dining"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOIJ-e7Bc&t=30s">Demo</a>
     </td>
     <td width="50%">
       <h3>MealBreak Compliance Analysis</h3>
@@ -191,7 +182,7 @@ class Phu:
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Top%202%20LMU-FFD700?style=flat-square"/>
       </p>
-      <a href="https://github.com/quachphu/MealBreakAnalysis"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/posts/quachthienphu_datathon-datascience-analytics-ugcPost-7315231516261773313-m28M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADih51sBNVKQWp2vp1XqHEyPfH5WfGkDUVw">▶️ Linkedln</a> 
+      <a href="https://github.com/quachphu/MealBreakAnalysis"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/posts/quachthienphu_datathon-datascience-analytics-ugcPost-7315231516261773313-m28M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADih51sBNVKQWp2vp1XqHEyPfH5WfGkDUVw">Linkedln</a> 
     </td>
   </tr>
   <tr>
@@ -219,7 +210,7 @@ class Phu:
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
         <img src="https://img.shields.io/badge/20%20Projects-58a6ff?style=flat-square"/>
       </p>
-      <a href="https://github.com/quachphu/Machine-Learning-Project">📂 View Full Collection →</a>
+      <a href="https://github.com/quachphu/Machine-Learning-Project">View Full Collection →</a>
     </td>
   </tr>
 </table>
