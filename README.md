@@ -180,10 +180,10 @@ class Phu:
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/GauchoGrub-Dining">📂 View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOlJ-e7Bc&t=30s">▶️ Demo</a>
+      <a href="https://github.com/quachphu/GauchoGrub-Dining"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOlJ-e7Bc&t=30s">▶️ Demo</a>
     </td>
     <td width="50%">
-      <h3>📊 MealBreak Compliance Analysis</h3>
+      <h3>MealBreak Compliance Analysis</h3>
       <p><strong>Top 2 — LMU Datathon 2025</strong></p>
       <p>Analyzed 25,052 shifts for compliance with California's Wage & Hours law (Section 512a). Identified $232,401 in financial exposure from non-compliance across Company XYZ's workforce data.</p>
       <p>
@@ -191,12 +191,12 @@ class Phu:
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Top%202%20LMU-FFD700?style=flat-square"/>
       </p>
-      <a href="https://github.com/quachphu/MealBreakAnalysis">📂 View Repo</a>
+      <a href="https://github.com/quachphu/MealBreakAnalysis"> View Repo</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/posts/quachthienphu_datathon-datascience-analytics-ugcPost-7315231516261773313-m28M?utm_source=share&utm_medium=member_desktop&rcm=ACoAADih51sBNVKQWp2vp1XqHEyPfH5WfGkDUVw">▶️ Linkedln</a> 
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🚗 Uber Driver Conversion Prediction</h3>
+      <h3>Uber Driver Conversion Prediction</h3>
       <p><strong>UCI Datathon</strong></p>
       <p>ML model analyzing 54,681 Uber driver signups to predict first-trip completion (only 11.22% convert). Identifies high-potential drivers and provides actionable recommendations to improve conversion rates.</p>
       <p>
@@ -204,13 +204,13 @@ class Phu:
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
       </p>
-      <a href="https://github.com/quachphu/Uber-Driver">📂 View Repo</a>
+      <a href="https://github.com/quachphu/Uber-Driver">View Repo</a> &nbsp;|&nbsp; <a href="https://devpost.com/software/zotzotzot-predicting-driver-activation">Devpost</a>
     </td>
     <td width="50%"></td>
   </tr>
   <tr>
     <td width="100%" colspan="2">
-      <h3>📚 Machine Learning Project Collection</h3>
+      <h3>Machine Learning Project Collection</h3>
       <p><strong>20 Projects — Fundamentals to Production AI</strong></p>
       <p>A comprehensive collection spanning the full ML stack: neural networks from scratch, computer vision (CNNs, U-Net, FaceNet, MobileNet), NLP & Transformers, Generative AI (LLMs, RAG, vector search), and Agentic AI (CrewAI, LangGraph, Fetch.ai). Each project includes detailed documentation and Jupyter notebooks.</p>
       <p>
