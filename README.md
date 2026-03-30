@@ -33,7 +33,7 @@ class Phu:
         ]
  
     def fun_fact(self):
-        return "I've competed in 6+ hackathons and won 3 of them "
+        return "I love building projects and competing in hackathons!"
 ```
  
  
@@ -98,37 +98,6 @@ class Phu:
 
 
 <h2>👨‍💻 Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice </b>
-  - [Practice DS & Algos in Python](https://github.com/quachphu/CSULB)
-
-- <b>Machine Learning Project </b>
-  - [Rain Prediction in Australia](https://github.com/quachphu/Project/blob/main/RainPrediction.ipynb)   
-  - [Deep Neutral Network](https://github.com/quachphu/Project/tree/main/Building_your_Deep_Neural_Network)
-  - [Face Recognition](https://github.com/quachphu/Project/tree/main/Face_Recognition)
-  - [Transformer](https://github.com/quachphu/Project/tree/main/Transformer)
-  - [Convolutional Neutral Network](https://github.com/quachphu/Project/tree/main/Convolutional%20Neutral%20Network-Application)
-
-
-- <b>Generative AI</b>
-  - [Conversational Q&A ChatBot](https://github.com/quachphu/Project/tree/main/LLM_ChatBot)
-  - [Search Engines](https://github.com/quachphu/Project/tree/main/SearchEngine)
-  - [RAG Document Q&A Nvidia Nim and Langchain](https://github.com/quachphu/Project/tree/main/nvidia)
-  - [Youtube to Blog Page MultiAI-Agents](https://github.com/quachphu/Project/tree/main/crew-ai)
-
-- <b>Agentic AI Project(Developing)</b>
-
-
-- <b>Hackathon & Datathon Project </b>
-  - [VoiceBridges Project - Top 1 USC Hackathon Winner - Dain's Challenge](https://github.com/quachphu/Hackathon/tree/main/SoCalHackathon2024-main)
-  - [Gaucho Grubs - UCSB Hackathon](https://github.com/quachphu/Hackathon/tree/main/UCSB-main)
-  - [MealBreak Analysis - Top 2 LMU Datathon](https://github.com/quachphu/datathon2025)
-  - [Uber Predicting Driver Activation- UCI Datathon](https://github.com/quachphu/UCIdatathon)
-  - [Exploratory data analysis: Data Science Salaries](https://github.com/quachphu/Project/blob/main/EDA%20(1).ipynb)
-  
-<h2>📝 My Blog </h2>
-
-- [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
 
 🚀 Featured Projects
 <table>
