@@ -222,11 +222,12 @@ class Phu:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-<h2> Connect with me:</h2>
+## Connect With Me
  
 <div align="center">
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Quach%20Thien%20Phu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/quachthienphu)
+[![Gmail](https://img.shields.io/badge/Gmail-quachphuwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quachphuwork@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-quachphu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quachphu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-PhuQuach-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/PhuQuach/)
 [![VoiceBridge](https://img.shields.io/badge/VoiceBridge-voicebridges.net-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://voicebridges.net)
@@ -238,4 +239,5 @@ class Phu:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
  
 </div>
+
 
