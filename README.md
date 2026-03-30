@@ -16,7 +16,7 @@ class Phu:
         self.name        = "Quach Thien Phu"
         self.role        = ["Software Engineer", "AI/ML Engineer", "Startup Founder"]
         self.university  = "Cal State Long Beach (CSULB) — CS, ML Specialization"
-        self.grad_year   = "December 2027"
+        self.grad_year   = "May 2027"
         self.company     = "Co-Founder & COO @ VoiceBridge"
         self.internship  = "Data Engineer Intern @ OneHope, Inc. (Summer 2026)"
         self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
