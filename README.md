@@ -130,8 +130,7 @@ class Phu:
 
 - [Key Skills for Data Science Expertise](https://www.linkedin.com/posts/quachthienphu_welcome-to-my-linkedin-profile-my-name-is-activity-7175340990457606146-f68B?utm_source=share&utm_medium=member_desktop)
 
-## 🚀 Featured Projects
- 
+🚀 Featured Projects
 <table>
   <tr>
     <td width="50%">
@@ -200,6 +199,20 @@ class Phu:
         <img src="https://img.shields.io/badge/CNN-orange?style=flat-square"/>
         <img src="https://img.shields.io/badge/Medical%20AI-red?style=flat-square"/>
       </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2">
+      <h3>📚 Machine Learning Project Collection</h3>
+      <p><strong>20 Projects — Fundamentals to Production AI</strong></p>
+      <p>A comprehensive collection spanning the full ML stack: neural networks from scratch, computer vision (CNNs, U-Net, FaceNet, MobileNet), NLP & Transformers, Generative AI (LLMs, RAG, vector search), and Agentic AI (CrewAI, LangGraph, Fetch.ai). Each project includes detailed documentation and Jupyter notebooks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/20%20Projects-58a6ff?style=flat-square"/>
+      </p>
+      <a href="https://github.com/quachphu/Machine-Learning-Project">📂 View Full Collection →</a>
     </td>
   </tr>
 </table>
