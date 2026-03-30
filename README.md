@@ -97,11 +97,12 @@ class Phu:
 
 
 
-<h2>👨‍💻 Projects:</h2>
+<h2>🚀 Featured Projects</h2>
+ 
 <table>
   <tr>
     <td width="50%">
-      <h3>🎙️ VoiceBridge</h3>
+      <h3>VoiceBridge</h3>
       <p><strong>AI Voice Control & Desktop Automation Startup</strong></p>
       <p>Co-Founder & COO. Won 1st Place @ USC Hackathon (Dain's Challenge). Competing in Sunstone Innovation Challenge.</p>
       <p>
@@ -169,6 +170,45 @@ class Phu:
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>🍽️ GauchoGrub Dining</h3>
+      <p><strong>UCSB Hackathon — Best Dining Hall App</strong></p>
+      <p>AI-powered UCSB dining hall app with real-time wait time prediction using YOLO v3 computer vision on live camera feeds, plus personalized menu recommendations based on dietary needs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/quachphu/GauchoGrub-Dining">📂 View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=_7xOlJ-e7Bc&t=30s">▶️ Demo</a>
+    </td>
+    <td width="50%">
+      <h3>📊 MealBreak Compliance Analysis</h3>
+      <p><strong>Top 2 — LMU Datathon 2025</strong></p>
+      <p>Analyzed 25,052 shifts for compliance with California's Wage & Hours law (Section 512a). Identified $232,401 in financial exposure from non-compliance across Company XYZ's workforce data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Top%202%20LMU-FFD700?style=flat-square"/>
+      </p>
+      <a href="https://github.com/quachphu/MealBreakAnalysis">📂 View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Uber Driver Conversion Prediction</h3>
+      <p><strong>UCI Datathon</strong></p>
+      <p>ML model analyzing 54,681 Uber driver signups to predict first-trip completion (only 11.22% convert). Identifies high-potential drivers and provides actionable recommendations to improve conversion rates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </p>
+      <a href="https://github.com/quachphu/Uber-Driver">📂 View Repo</a>
+    </td>
+    <td width="50%"></td>
+  </tr>
+  <tr>
     <td width="100%" colspan="2">
       <h3>📚 Machine Learning Project Collection</h3>
       <p><strong>20 Projects — Fundamentals to Production AI</strong></p>
@@ -183,6 +223,7 @@ class Phu:
     </td>
   </tr>
 </table>
+ 
  
 ---
 
