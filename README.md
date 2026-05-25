@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
  
-> **CS student at CSULB** with an ML specialization, building at the intersection of **Agentic AI, Big Data, and real-world product**. I'm a 5× hackathon & datathon winner, Co-Founder of an AI startup, and ML researcher extending multi-agent self-improvement architectures. When I'm not shipping code, I'm organizing [BeachHacks]([https://github.com/quachphu](https://beachhacks.com/)) — CSULB's flagship hackathon and leading the Google SWE Fellows track for the next generation of engineers.
+> **CS student at CSULB** with an ML specialization, building at the intersection of **Agentic AI, Big Data, and real-world product**. I'm a 7× hackathon & datathon winner, Co-Founder of an AI startup, and ML researcher extending multi-agent self-improvement architectures. When I'm not shipping code, I'm organizing [BeachHacks]([https://github.com/quachphu](https://beachhacks.com/)) — CSULB's flagship hackathon and leading the Google SWE Fellows track for the next generation of engineers.
  
 ```python
 class Phu:
@@ -17,23 +17,22 @@ class Phu:
         self.role        = ["Software Engineer", "AI/ML Engineer", "Startup Founder"]
         self.university  = "Cal State Long Beach (CSULB) — CS, ML Specialization"
         self.grad_year   = "May 2027"
-        self.company     = "Co-Founder & COO @ VoiceBridge"
-        self.internship  = "Data Engineer Intern @ OneHope, Inc. (Summer 2026)"
+        self.company     = "Co-Founder & CEO @ Tabescere"
+        self.internship  = "AI Software Engineer Intern @ Fetch AI, Inc. (Summer 2026)"
         self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
-        self.research    = "CGEV Multi-Agent Self-Improvement (arXiv:2502.04780 extension)"
-        self.wins        = ["USC AI Challenge Hackathon", "LMU Business Challenge Datathon", "CSULB Beach Hacks", "UCI AWS Cloud Hackathon", "UCSD Diamond Hackathon"]
+        self.wins        = ["USC AI Challenge Hackathon", "HackTech Caltech Hackathon", "UCI AWS Cloud Hackathon", "UCSD Diamond Hackathon", "CSULB Beach Hacks", "LMU Business Challenge Datathon", "MindStudio Best use of Remy"]
         self.languages   = ["Python", "TypeScript", "JavaScript", "C", "C++", "SQL", "Go"]
         self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Big Data"]
  
     def current_focus(self):
         return [
-            "CGEV thesis — extending SiriuS multi-agent pipeline on PubMedQA",
+            "Building Tabescere - AI agent that finds you a place to rent",
             "VoiceBridge — AI voice control & desktop automation startup",
-            "Data Engineering with Dagster, dbt, and cloud pipelines",
+            "Building an AI agent for Fetch AI",
         ]
  
     def fun_fact(self):
-        return "I love building projects and competing in hackathons! Gym rat +3 year"
+        return "I love building projects and competing in hackathons! Gym rat +3 years."
 ```
  
  
