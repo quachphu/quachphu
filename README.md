@@ -37,7 +37,7 @@ class Phu:
  
  
 
-## 🛠️ Tech Stack
+## Tech Stack
  
 <div align="center">
  
@@ -96,7 +96,7 @@ class Phu:
 
 
 
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 <table>
   <tr>
     <td width="50%">
@@ -215,7 +215,7 @@ class Phu:
 
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=quachphu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quachphu&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
