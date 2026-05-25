@@ -19,7 +19,7 @@ class Phu:
         self.grad_year   = "May 2027"
         self.company     = "Co-Founder & CEO @ Tabescere"
         self.internship  = "AI Software Engineer Intern @ Fetch AI, Inc. (Summer 2026)"
-        self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead"]
+        self.leadership  = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead", "Break Through Tech Fellow"]
         self.wins        = ["USC AI Challenge Hackathon", "HackTech Caltech Hackathon", "UCI AWS Cloud Hackathon", "UCSD Diamond Hackathon", "CSULB Beach Hacks", "LMU Business Challenge Datathon", "MindStudio Best use of Remy"]
         self.languages   = ["Python", "TypeScript", "JavaScript", "C", "C++", "SQL", "Go"]
         self.interests   = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Big Data"]
