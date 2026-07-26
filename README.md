@@ -21,7 +21,7 @@ class Phu:
         self.entrepreneur = "Top 3 Sunstone Innovation Challenge ($5K)"
         self.internship   = "AI Software Engineer Intern @ Fetch AI, Inc. (Summer 2026)"
         self.leadership   = ["ACM VP", "BeachHacks Director", "Google SWE Fellows Lead", "Break Through Tech Fellow"]
-        self.wins         = ["USC AI Challenge Hackathon", "HackTech Caltech Hackathon", "UCI AWS Cloud Hackathon", "UCSD Diamond Hackathon", "CSULB Beach Hacks", "LMU Business Challenge Datathon", "MindStudio Best use of Remy"]
+        self.wins         = "14+ hackathon, datathon & innovation challenge wins (full list in Achievements section below)"
         self.languages    = ["Python", "TypeScript", "JavaScript", "C", "C++", "SQL", "Go"]
         self.interests    = ["Agentic AI", "LLM Fine-tuning", "Computer Vision", "Big Data"]
  
@@ -37,6 +37,34 @@ class Phu:
 ```
  
  
+## 🏆 Achievements & Awards
+
+### Hackathon Wins
+
+| Result | Event | Project |
+|---|---|---|
+| 🥇 1st Place | USC AI Hackathon | VoiceBridge |
+| 🥇 1st Place | BeachHacks (Fetch.ai Track) | NeuroFlow |
+| 🥇 1st Place | Diamond Hacks UCSD (Fetch.ai Prize Winner) | AgenticHire |
+| 🥇 1st Place | AWS Cloud Hackathon, UC Irvine | Mindfulness AI |
+| 🥈 2nd Place | California Business Datathon, LMU | California Labor Code Section 504 Analysis |
+| 🏅 Best Use of blackboard.io (MLH) | HackTech Caltech Hackathon | Nova AI |
+| 🏅 Best Use of Remy | MindStudio | Planforce |
+
+### YC Circuit & Notable Recognition
+
+| Event | Project | Recognition |
+|---|---|---|
+| Sunstone Innovation Challenge (2026) | VoiceBridge / Nova | Top 3 Finalist overall, $5,000 funding accelerator |
+| YC HUD Frontier/RSI RL Environments Hackathon | Warehouse AI | Top 14 of 71+ projects submitted |
+| YC Call My Agent Hackathon | Apex AI | Personal follow-up from YC Partner David Lieb |
+| YC Voice Agents Hackathon | VoiceShield Forge | Personal follow-up from sponsor company |
+| Autonomous Healthcare Hackathon (Legion Health, Cursor, xAI) | Materna | Coffee chat with YC-backed CTO/founder |
+
+### Leadership & Community
+
+- **ACM Vice President, CSULB**: leading the university's computer science community
+- **BeachHacks Director**: secured $11,000+ and 10+ sponsors, led a 20+ member team to build the largest hackathon in Long Beach
 
 ## Tech Stack
  
@@ -239,5 +267,3 @@ class Phu:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
  
 </div>
-
-
