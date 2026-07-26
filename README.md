@@ -225,6 +225,121 @@ class Phu:
     </td>
   </tr>
   <tr>
+    <td width="50%">
+      <h3>Warehouse AI</h3>
+      <p><strong>YC HUD Frontier/RSI RL Environments Hackathon</strong></p>
+      <p>Reinforcement learning system for warehouse operations, built for YC's RL Environments Hackathon. Placed top 14 of 71+ submissions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Reinforcement%20Learning-6A5ACD?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Top%2014%20of%2071%2B-FFD700?style=flat-square"/>
+      </p>
+      <a href="https://warehouse-rl.netlify.app/">Site</a> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1GrnvanYkYyoUGFUBX5h-ejnqgoCNgFW0/view?usp=sharing">Slides</a> &nbsp;|&nbsp; <a href="https://github.com/bryanmax9/Python_WarehouseSimulation">GitHub</a>
+    </td>
+    <td width="50%">
+      <h3>Apex AI</h3>
+      <p><strong>YC Call My Agent Hackathon</strong></p>
+      <p>AI calling agent built for YC's Call My Agent Hackathon. Earned a personal follow-up from YC Partner David Lieb.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Agents-412991?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Voice%20AI-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/YC%20Follow--up-FFD700?style=flat-square"/>
+      </p>
+      <a href="https://github.com/quachphu/Apex-AI">View Repo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=bMP9iGPU7H0">Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Materna</h3>
+      <p><strong>Autonomous Healthcare Hackathon (Legion Health, Cursor, xAI)</strong></p>
+      <p>Autonomous maternal health voice agent. Led to a coffee chat with a YC-backed CTO/founder.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Voice%20AI-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Healthcare-2E8B57?style=flat-square"/>
+        <img src="https://img.shields.io/badge/xAI-000000?style=flat-square"/>
+      </p>
+      <a href="https://github.com/quachphu/Autonomous-Healthcare-Hackathon">View Repo</a> &nbsp;|&nbsp; <a href="https://youtu.be/IOeiF4NbyQc">Demo</a>
+    </td>
+    <td width="50%">
+      <h3>Nova AI</h3>
+      <p><strong>HackTech Caltech Hackathon</strong></p>
+      <p>Voice-first desktop automation agent from the VoiceBridge team, entered at HackTech Caltech. Won Best Use of blackboard.io (MLH).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Voice-FF6B6B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MLH%20Award-FFD700?style=flat-square"/>
+      </p>
+      <a href="https://novatechai.tech/">Site</a> &nbsp;|&nbsp; <a href="https://github.com/quachphu/NovaAI">GitHub</a> &nbsp;|&nbsp; <a href="https://canva.link/oat5jt0n12wqiyw">Pitch Deck</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AgenticHire</h3>
+      <p><strong>Diamond Hacks UCSD</strong></p>
+      <p>Solo build on the Fetch.ai uAgents framework automating parts of the hiring pipeline. Won 1st Place and the Fetch.ai Prize.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Fetch.ai-00C4CC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/uAgents-purple?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/quachphu/UCSD-HACKATHON">View Repo</a> &nbsp;|&nbsp; <a href="https://youtu.be/81ZDAMTBrfw">Demo</a>
+    </td>
+    <td width="50%">
+      <h3>Mindfulness AI</h3>
+      <p><strong>AWS Cloud Hackathon, UC Irvine</strong></p>
+      <p>AI-powered mindfulness and wellness app built on AWS. Won 1st Place.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Wellness-2E8B57?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ple0309/CloudHacks-UCI-2026">View Repo</a> &nbsp;|&nbsp; <a href="https://youtu.be/eW_eWhd9e0A">Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Planforce</h3>
+      <p><strong>MindStudio</strong></p>
+      <p>AI planning tool built on MindStudio. Won Best Use of Remy.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MindStudio-black?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Remy%20Award-FFD700?style=flat-square"/>
+      </p>
+      <a href="https://www.youtube.com/watch?v=iNmtACOn_JM&t=2s">Demo</a>
+    </td>
+    <td width="50%">
+      <h3>AWS Harness Engineering Hack</h3>
+      <p><strong>AWS Hackathon</strong></p>
+      <p>Engineering project built for an AWS-focused hackathon. Demo video included in the repo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+      </p>
+      <a href="https://github.com/quachphu/AWS-Hackathon">View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AGI Hackathon Project</h3>
+      <p><strong>AGI Summit 2026</strong></p>
+      <p>Project built around AGI Summit 2026.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI-412991?style=flat-square"/>
+      </p>
+      <a href="https://github.com/quachphu/AGI-Hackathon">View Repo</a>
+    </td>
+    <td width="50%">
+      <h3>Fetch.ai Innovation Lab</h3>
+      <p><strong>DevRel / Engineering Internship</strong></p>
+      <p>Building agent examples on the ASI:One platform using the uAgents framework.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Fetch.ai-00C4CC?style=flat-square"/>
+        <img src="https://img.shields.io/badge/uAgents-purple?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ASI%3AOne-blue?style=flat-square"/>
+      </p>
+      <a href="https://youtu.be/-zUV5ViaoPs">Demo 1</a> &nbsp;|&nbsp; <a href="https://youtu.be/hjBUYp_CoKU">Demo 2</a> &nbsp;|&nbsp; <a href="https://youtu.be/RmrOGutIjbg">Demo 3</a> &nbsp;|&nbsp; <a href="https://youtu.be/ZR83LAA2lJI">Demo 4</a>
+    </td>
+  </tr>
+  <tr>
     <td width="100%" colspan="2">
       <h3>Machine Learning Project Collection</h3>
       <p><strong>20 Projects — Fundamentals to Production AI</strong></p>
@@ -239,26 +354,6 @@ class Phu:
     </td>
   </tr>
 </table>
-
-### More Hackathon Projects
-
-| Project | Event | Result | Links |
-|---|---|---|---|
-| Nova AI | HackTech Caltech Hackathon | Best Use of blackboard.io (MLH) | [Site](https://novatechai.tech/) • [GitHub](https://github.com/quachphu/NovaAI) • [Pitch Deck](https://canva.link/oat5jt0n12wqiyw) |
-| AgenticHire | Diamond Hacks UCSD | 1st Place, Fetch.ai Prize | [GitHub](https://github.com/quachphu/UCSD-HACKATHON) • [Demo](https://youtu.be/81ZDAMTBrfw) |
-| Mindfulness AI | AWS Cloud Hackathon, UC Irvine | 1st Place | [GitHub](https://github.com/ple0309/CloudHacks-UCI-2026) • [Demo](https://youtu.be/eW_eWhd9e0A) |
-| Planforce | MindStudio | Best Use of Remy | [Demo](https://www.youtube.com/watch?v=iNmtACOn_JM&t=2s) |
-| Warehouse AI | YC HUD Frontier/RSI RL Environments Hackathon | Top 14 of 71+ submissions | [Site](https://warehouse-rl.netlify.app/) • [Slides](https://drive.google.com/file/d/1GrnvanYkYyoUGFUBX5h-ejnqgoCNgFW0/view?usp=sharing) • [GitHub](https://github.com/bryanmax9/Python_WarehouseSimulation) |
-| Apex AI | YC Call My Agent Hackathon | Follow-up from YC Partner David Lieb | [GitHub](https://github.com/quachphu/Apex-AI) • [Demo](https://www.youtube.com/watch?v=bMP9iGPU7H0) |
-| Materna | Autonomous Healthcare Hackathon (Legion Health, Cursor, xAI) | Coffee chat w/ YC-backed CTO/founder | [GitHub](https://github.com/quachphu/Autonomous-Healthcare-Hackathon) • [Demo](https://youtu.be/IOeiF4NbyQc) |
-| AWS Harness Engineering Hack | AWS Hackathon | — | [GitHub](https://github.com/quachphu/AWS-Hackathon) (demo video in repo) |
-| AGI Hackathon Project | AGI Summit 2026 | — | [GitHub](https://github.com/quachphu/AGI-Hackathon) |
-
-### 💼 Fetch.ai Innovation Lab
-
-Building agent examples on the ASI:One platform with the uAgents framework as a DevRel/engineering intern:
-
-[Demo 1](https://youtu.be/-zUV5ViaoPs) • [Demo 2](https://youtu.be/hjBUYp_CoKU) • [Demo 3](https://youtu.be/RmrOGutIjbg) • [Demo 4](https://youtu.be/ZR83LAA2lJI)
  
  
 ---
