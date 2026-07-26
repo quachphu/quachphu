@@ -63,8 +63,8 @@ class Phu:
 
 ### Leadership & Community
 
-- **ACM Vice President, CSULB**: leading the university's computer science community
-- **BeachHacks Director**: secured $11,000+ and 10+ sponsors, led a 20+ member team to build the largest hackathon in Long Beach
+- **ACM Vice President, CSULB**: leading the university's computer science community → [csulb.acm.org](https://csulb.acm.org/)
+- **BeachHacks Director**: secured $11,000+ and 10+ sponsors, led a 20+ member team to build the largest hackathon in Long Beach → [beachhacks.com](https://beachhacks.com/)
 
 ## Tech Stack
  
@@ -137,7 +137,7 @@ class Phu:
         <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
         <img src="https://img.shields.io/badge/AI%20Voice-FF6B6B?style=flat-square"/>
       </p>
-      <a href="https://voicebridges.net">voicebridges.net</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=TNiw3K0_gpU">Demo</a>
+      <a href="https://voicebridges.net">voicebridges.net</a> &nbsp;|&nbsp; <a href="https://github.com/quachphu/VoiceBridge">GitHub</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=TNiw3K0_gpU">Demo</a> &nbsp;|&nbsp; <a href="https://www.youtube.com/watch?v=ytsUsYFrEZg">Demo 2</a> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1mTUDDzFVPkpeEalwFBjfJOjnJOlAitqd/view">Pitch Deck</a>
     </td>
     <td width="50%">
       <h3>CGEV — ML Thesis</h3>
@@ -148,6 +148,7 @@ class Phu:
         <img src="https://img.shields.io/badge/PubMedQA-blue?style=flat-square"/>
         <img src="https://img.shields.io/badge/Research-green?style=flat-square"/>
       </p>
+      <a href="https://github.com/quachphu/CGEV">View Repo</a>
     </td>
   </tr>
   <tr>
@@ -238,6 +239,26 @@ class Phu:
     </td>
   </tr>
 </table>
+
+### More Hackathon Projects
+
+| Project | Event | Result | Links |
+|---|---|---|---|
+| Nova AI | HackTech Caltech Hackathon | Best Use of blackboard.io (MLH) | [Site](https://novatechai.tech/) • [GitHub](https://github.com/quachphu/NovaAI) • [Pitch Deck](https://canva.link/oat5jt0n12wqiyw) |
+| AgenticHire | Diamond Hacks UCSD | 1st Place, Fetch.ai Prize | [GitHub](https://github.com/quachphu/UCSD-HACKATHON) • [Demo](https://youtu.be/81ZDAMTBrfw) |
+| Mindfulness AI | AWS Cloud Hackathon, UC Irvine | 1st Place | [GitHub](https://github.com/ple0309/CloudHacks-UCI-2026) • [Demo](https://youtu.be/eW_eWhd9e0A) |
+| Planforce | MindStudio | Best Use of Remy | [Demo](https://www.youtube.com/watch?v=iNmtACOn_JM&t=2s) |
+| Warehouse AI | YC HUD Frontier/RSI RL Environments Hackathon | Top 14 of 71+ submissions | [Site](https://warehouse-rl.netlify.app/) • [Slides](https://drive.google.com/file/d/1GrnvanYkYyoUGFUBX5h-ejnqgoCNgFW0/view?usp=sharing) • [GitHub](https://github.com/bryanmax9/Python_WarehouseSimulation) |
+| Apex AI | YC Call My Agent Hackathon | Follow-up from YC Partner David Lieb | [GitHub](https://github.com/quachphu/Apex-AI) • [Demo](https://www.youtube.com/watch?v=bMP9iGPU7H0) |
+| Materna | Autonomous Healthcare Hackathon (Legion Health, Cursor, xAI) | Coffee chat w/ YC-backed CTO/founder | [GitHub](https://github.com/quachphu/Autonomous-Healthcare-Hackathon) • [Demo](https://youtu.be/IOeiF4NbyQc) |
+| AWS Harness Engineering Hack | AWS Hackathon | — | [GitHub](https://github.com/quachphu/AWS-Hackathon) (demo video in repo) |
+| AGI Hackathon Project | AGI Summit 2026 | — | [GitHub](https://github.com/quachphu/AGI-Hackathon) |
+
+### 💼 Fetch.ai Innovation Lab
+
+Building agent examples on the ASI:One platform with the uAgents framework as a DevRel/engineering intern:
+
+[Demo 1](https://youtu.be/-zUV5ViaoPs) • [Demo 2](https://youtu.be/hjBUYp_CoKU) • [Demo 3](https://youtu.be/RmrOGutIjbg) • [Demo 4](https://youtu.be/ZR83LAA2lJI)
  
  
 ---
